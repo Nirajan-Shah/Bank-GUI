@@ -10,7 +10,7 @@ This is a small application that simulates a bank. You are an administrator and 
 The features are given below-
 
   - You cannot add the same debit card or credit card twice.
-  - You can switch from ligh to dark theme from the setting tab.
+  - You can switch from dark to light theme from the setting tab.
   - You can re-enter the values of card ID and pin number after which a message appears stating that the entered values were the correct ones as in they are the values which were entered before erasing the fields. After entering a valid withdrawal amount, you can press Enter, and a message will appear confirming that the values entered were correct, along with the displayed information.
   - A message box warning the user appears if the user has entered incorrect data or have just left certain fields empty.
   - You cannot withdraw without creating a debit card first.
