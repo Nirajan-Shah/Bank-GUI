@@ -16,3 +16,5 @@ The features are given below-
   - You cannot withdraw without creating a debit card first.
   - You cannot withdraw more than what you have in your debit card.
   - You cannot set credit limit which is 2.5 times greater than your balance amount.
+
+Run BankGUI.java to get started.
